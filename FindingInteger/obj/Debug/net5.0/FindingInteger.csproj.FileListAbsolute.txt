@@ -1,0 +1,16 @@
+C:\Users\Yusuf\OneDrive\BADev\Week3\FindingInteger\bin\Debug\net5.0\FindingInteger.exe
+C:\Users\Yusuf\OneDrive\BADev\Week3\FindingInteger\bin\Debug\net5.0\FindingInteger.deps.json
+C:\Users\Yusuf\OneDrive\BADev\Week3\FindingInteger\bin\Debug\net5.0\FindingInteger.runtimeconfig.json
+C:\Users\Yusuf\OneDrive\BADev\Week3\FindingInteger\bin\Debug\net5.0\FindingInteger.runtimeconfig.dev.json
+C:\Users\Yusuf\OneDrive\BADev\Week3\FindingInteger\bin\Debug\net5.0\FindingInteger.dll
+C:\Users\Yusuf\OneDrive\BADev\Week3\FindingInteger\bin\Debug\net5.0\ref\FindingInteger.dll
+C:\Users\Yusuf\OneDrive\BADev\Week3\FindingInteger\bin\Debug\net5.0\FindingInteger.pdb
+C:\Users\Yusuf\OneDrive\BADev\Week3\FindingInteger\obj\Debug\net5.0\FindingInteger.csproj.AssemblyReference.cache
+C:\Users\Yusuf\OneDrive\BADev\Week3\FindingInteger\obj\Debug\net5.0\FindingInteger.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Yusuf\OneDrive\BADev\Week3\FindingInteger\obj\Debug\net5.0\FindingInteger.AssemblyInfoInputs.cache
+C:\Users\Yusuf\OneDrive\BADev\Week3\FindingInteger\obj\Debug\net5.0\FindingInteger.AssemblyInfo.cs
+C:\Users\Yusuf\OneDrive\BADev\Week3\FindingInteger\obj\Debug\net5.0\FindingInteger.csproj.CoreCompileInputs.cache
+C:\Users\Yusuf\OneDrive\BADev\Week3\FindingInteger\obj\Debug\net5.0\FindingInteger.dll
+C:\Users\Yusuf\OneDrive\BADev\Week3\FindingInteger\obj\Debug\net5.0\ref\FindingInteger.dll
+C:\Users\Yusuf\OneDrive\BADev\Week3\FindingInteger\obj\Debug\net5.0\FindingInteger.pdb
+C:\Users\Yusuf\OneDrive\BADev\Week3\FindingInteger\obj\Debug\net5.0\FindingInteger.genruntimeconfig.cache
